@@ -36,6 +36,9 @@ When the user open the app
 Then the app should display error code in screen
 ```
 
+#### App Architecture
+![tmdb drawio](https://user-images.githubusercontent.com/26060382/229957200-eaa8f7e4-524c-447c-bf5c-d46ef756ec56.png)
+
 ### Payload contract
 
 ```
